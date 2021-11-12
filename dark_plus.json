@@ -13,7 +13,11 @@
 				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
-				"foreground": "#DCDCAA"
+				// "foreground": "#DCDCAA"
+				// "foreground": "#8f8f10"
+				// "foreground": "#0e356b"
+				// "foreground": "#113d7a"
+				"foreground": "#1f4f91"
 			}
 		},
 		{
