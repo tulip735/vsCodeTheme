@@ -2,8 +2,10 @@
 	"$schema": "vscode://schemas/color-theme",
 	"name": "Dark (Visual Studio)",
 	"colors": {
-		"editor.background": "#1E1E1E",
-		"editor.foreground": "#D4D4D4",
+		// "editor.background": "#1E1E1E",
+		"editor.background": "#0F0F0F",
+		// "editor.foreground": "#D4D4D4",
+		"editor.foreground": "#F4F4F4",
 		"editor.inactiveSelectionBackground": "#3A3D41",
 		"editorIndentGuide.background": "#404040",
 		"editorIndentGuide.activeBackground": "#707070",
