@@ -201,7 +201,8 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#ce9178"
+				// "foreground": "#ce9178"
+				"foreground": "#7d1558"
 			}
 		},
 		{
@@ -249,18 +250,21 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#ce9178"
+				// "foreground": "#ce9178"
+				"foreground": "#7d1558"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
+				// "foreground": "#ce9178"
 				"foreground": "#ce9178"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
+				// "foreground": "#ce9178"
 				"foreground": "#ce9178"
 			}
 		},
@@ -387,7 +391,8 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
 		"newOperator": "#d4d4d4",
-		"stringLiteral": "#ce9178",
+		// "stringLiteral": "#ce9178",
+		"stringLiteral": "#7d1558",
 		"customLiteral": "#D4D4D4",
 		"numberLiteral": "#b5cea8",
 	}
