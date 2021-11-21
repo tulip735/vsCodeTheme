@@ -1,0 +1,29 @@
+{
+    "editor.accessibilityPageSize": 12,
+    "window.zoomLevel": 1,
+    "editor.fontSize": 14,
+    // "editor.fontFamily": "Ubuntu Mono derivative Powerline",
+    // "editor.fontFamily": "Source Code Pro Medium",
+    "editor.fontFamily": "Monaco",
+    // "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.lineHeight": 22,
+    "terminal.integrated.fontSize": 13,
+    "debug.console.fontSize": 12,
+    // "json.trace.server": "verbose",
+
+    // "vim.foldfix": true,
+
+
+    "update.mode": "none",
+    "git.ignoreLegacyWarning": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "redhat.telemetry.enabled": true
+}
