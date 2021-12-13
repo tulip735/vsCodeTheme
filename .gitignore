@@ -1,0 +1,62 @@
+#project properties
+/target
+*/target
+*.settings
+*.classpath
+*.project
+/admin
+Test*.java
+
+# Created by .ignore support plugin (hsz.mobi)
+### Gradle template
+.gradle
+/build/
+
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+
+
+### macOS template
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+
+
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+## Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+rebel*.xml
+rebel.xml
+
+
