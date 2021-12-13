@@ -7,17 +7,18 @@
 			"name": "Function declarations",
 			"scope": [
 				"entity.name.function",
-				"support.function",
-				"support.constant.handlebars",
-				"source.powershell variable.other.member",
-				"entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
+				// "support.function",
+				// "support.constant.handlebars",
+				// "source.powershell variable.other.member",
+				// "entity.name.operator.custom-literal" // See https://en.cppreference.com/w/cpp/language/user_literal
 			],
 			"settings": {
 				// "foreground": "#DCDCAA"
 				// "foreground": "#8f8f10"
 				// "foreground": "#0e356b"
 				// "foreground": "#113d7a"
-				"foreground": "#1f4f91"
+				// "foreground": "#1f4f91"
+				"foreground": "#0333ff"
 			}
 		},
 		{
@@ -58,7 +59,8 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				// "foreground": "#4EC9B0"
+				"foreground": "#008700"
 			}
 		},
 		{
@@ -92,11 +94,11 @@
 		{
 			"name": "Variable and parameter name",
 			"scope": [
-				"variable",
+				// "variable",
 				"meta.definition.variable.name",
-				"support.variable",
-				"entity.name.variable",
-				"constant.other.placeholder", // placeholders in strings
+				// "support.variable",
+				// "entity.name.variable",
+				// "constant.other.placeholder", // placeholders in strings
 			],
 			"settings": {
 				"foreground": "#9CDCFE"
@@ -110,6 +112,7 @@
 			],
 			"settings": {
 				"foreground": "#4FC1FF",
+				// "foreground": "#007979",
 			}
 		},
 		{
@@ -180,7 +183,8 @@
 		{
 			"scope": "constant.character",
 			"settings": {
-				"foreground": "#569cd6"
+				// "foreground": "#569cd6"
+				"foreground": "#007979"
 			}
 		},
 		{
