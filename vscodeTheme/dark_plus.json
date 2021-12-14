@@ -186,7 +186,8 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#d7ba7d"
+				// "foreground": "#d7ba7d"
+				"foreground": "#7d1558"
 			}
 		},
 		{
